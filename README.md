@@ -1,3 +1,4 @@
 # LLM model with R shiny 
 
-### RShiny_
+### /Generate_Ollama/modified_shiny_ollama.R
+
